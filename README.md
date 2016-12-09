@@ -1,4 +1,6 @@
 # Maven_TestNG_POC
+Eclipse version Neon
+
 1.	File-> Project -> Maven -> Maven Project
 2.	Right click proj -> buildpath -> configure build path -> sources -> add resource folder
 3.	Maven -> Update Project
