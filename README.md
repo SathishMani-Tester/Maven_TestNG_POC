@@ -1,5 +1,9 @@
 # Maven_TestNG_POC
-Eclipse version Neon
+Pre requisites:
+	Download Eclipse Neon
+	Download JDK from http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+	Download JRE from http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
 
 1.	File-> Project -> Maven -> Maven Project
 2.	Right click proj -> buildpath -> configure build path -> sources -> add resource folder
